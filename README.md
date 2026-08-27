@@ -5,7 +5,7 @@ This repository contains the **lab (discussion section) materials** for **ECON 5
 ### Lab logistics (Fall 2026)
 
 - **Meets:** Friday 10:00–10:50 AM, Rich 108 (the same room as lecture, meeting after the week's MW lectures)
-- **First lab:** Friday, August 28, 2026 *(confirm against the official Fall 2026 calendar)*
+- **First lab:** Friday, August 28, 2026 
 - **Weight:** The lab is **25% of the course grade**, alongside the midterm (35%, Oct 21) and final exam (40%, Dec 14). See **Lab Grading** below for the breakdown.
 - **Instructor:** Zheng Fang (zheng.fang@emory.edu)
 - **Lab Instructor:** Joel Reyes Mora (joel.reyes.mora@emory.edu)
